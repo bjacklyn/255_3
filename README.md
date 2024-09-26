@@ -6,6 +6,8 @@ a) Multiclass Classification/Regression:
 - https://www.youtube.com/watch?v=L_bEBbfTKEM
 - https://colab.research.google.com/drive/1v3hnBBbdHTteaSdljk87IKWPDdZnSQ_g?usp=sharing
 - https://colab.research.google.com/drive/1PbMYPWKA0urtKdU4MBcrafAP7_qZVBxA?usp=sharing
+- Gradio example timestamp 1: https://youtu.be/L_bEBbfTKEM?t=349
+- Gradio example timestamp 2: https://youtu.be/L_bEBbfTKEM?t=513
 
 b) Clustering:
 - https://www.youtube.com/watch?v=5NagXmOb2U0
